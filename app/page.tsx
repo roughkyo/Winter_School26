@@ -46,9 +46,9 @@ export default function Home() {
         <div className="relative z-10 flex w-full flex-col items-center justify-center px-6 py-14 text-center text-white sm:px-12">
           <p className="text-sm font-black tracking-[.18em] text-orange-300 sm:text-base">광양고등학교 자공고2.0 윈터스쿨</p>
           <h2 className="mt-5 text-4xl leading-tight font-black tracking-[-.055em] drop-shadow-[0_4px_18px_rgba(0,0,0,.85)] sm:text-6xl">
-            나의 겨울은<br /><span className="text-amber-300">여름보다 뜨거워야 한다</span>
+            우리의 겨울은<br /><span className="text-amber-300">여름보다 뜨거워야 한다</span>
           </h2>
-          <p className="mt-7 text-lg font-bold text-white/90 drop-shadow-lg sm:text-2xl">겨울방학에도 광양고는 쉬지않고 달린다.</p>
+          <p className="mt-7 text-lg font-bold text-white/90 drop-shadow-lg sm:text-2xl">겨울방학에도 우리는 계속 성장한다.</p>
         </div>
       </div>
     </section>
