@@ -1,0 +1,11 @@
+.next/
+node_modules/
+.vercel/
+*.log
+.env*
+!.env.example
+
+# 비공개 개발 자료 (업로드 금지)
+/비공개,개발을 위한 자료/
+/winterschool-2027-brief.md
+/2026-09-29-mobile-review.png
